@@ -13,5 +13,5 @@ The results of the audit will be presented on screen and as a downloadable PDF l
 ## Coming soon
 ### Version 2
 
-The next version of the AI Compliance bot will be free form, using NLP/LLM technology to comminicate with and interpret the user's interactions, but retaining a much larger Know;ledge Graph to ensure that the information given is corrct and auditable.
+The next version of the AI Compliance bot will be free form, using NLP/LLM technology to comminicate with and interpret the user's interactions, but retaining a much larger Knowledge Graph to ensure that the information given is corrct and auditable.
 Version 2 will cover all countries that currently have AI policies or regulations.
